@@ -2,7 +2,7 @@
 
 >When using the ConnectIoT project you'll have devices taking in data so with this method you will be able to register that data.
 ---
-## How do I set data to a device 
+## How do I set data to a device?
 By importing the ConnectIoT class to your Python script you can set data to an existing device using the set_device_data method. You will have to get and validate the Near contract url, the Near account ID and the private key. Before setting data to a device make sure that the device exists.
 
 ```py

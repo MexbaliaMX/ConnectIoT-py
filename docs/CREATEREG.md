@@ -3,7 +3,7 @@
 >When using the ConnectIoT project you'll be required to create a registry for each group of devices you want to administrate.
 
 ---
-## How to use this?
+## How do I create a new registry?
 By importing the ConnectIoT class to your Python script you can create a registry using the create_registry method. You will have to get and validate the Near contract url, the Near account ID and the private key .
 
 ```py
