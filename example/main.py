@@ -14,6 +14,6 @@ if __name__ == '__main__':
             contract.set_device_data(registry_name, device_name, {
                 'value1': 1, 'value2': 3.5, 'value3': 'foobar'})
             print(contract.get_device_data(registry_name, device_name))
-    if contract.delete_device_from_registry(registry_name, device_name):
-        contract.delete_registry(registry_name)
+        if contract.delete_device_from_registry(registry_name, device_name):
+            contract.delete_registry(registry_name)
         print('Cleaned up')
