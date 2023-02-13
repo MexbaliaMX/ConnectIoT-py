@@ -19,8 +19,8 @@
 - Add/Delete a device to registry
 - Set/Get device data
 - Set/Get device metadata
-- Set/Get device data parmeters
-- Set/Get device metadata parmeters
+- Set/Get device data parameters
+- Set/Get device metadata parameters
 
 _See [documentation](docs/README.md#connectiot-python-library) for more info and [examples](example/main.py)_
 
@@ -29,7 +29,7 @@ _See [documentation](docs/README.md#connectiot-python-library) for more info and
 ## Requirements
 
 - [NEAR Account](https://docs.near.org/concepts/basics/account) _(with access to private key or seed phrase)_
-- [ConnectIoT-API](https://github.com/paul-cruz/ConnectIoT-API.git) (*This allows you to connect with the ConnectIoT smart contract for example an ip with its port*)
+- [ConnectIoT-API](https://github.com/paul-cruz/ConnectIoT-API.git) (*This allows you to connect with the ConnectIoT smart contract, for example an IP with its port*)
 
 
 ---
@@ -45,4 +45,4 @@ _See [documentation](docs/README.md#connectiot-python-library) for more info and
 
 ## Support
 
-Reach out via [website](https://mexbalia.com/contact/) or send an email to [info@mexbalia.com](https://google.com)
+Reach out via [website](https://mexbalia.com/service-details.html) or send an email to [info@mexbalia.com](https://google.com)
