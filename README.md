@@ -45,4 +45,4 @@ _See [documentation](docs/README.md#connectiot-python-library) for more info and
 
 ## Support
 
-Reach out via [website](https://mexbalia.com/service-details.html) or send an email to [info@mexbalia.com](https://google.com)
+Reach out via [website](https://mexbalia.com/contact.html) or send an email to [info@mexbalia.com](https://google.com)
